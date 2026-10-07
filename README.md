@@ -1,49 +1,81 @@
-# Renan Augusto dos Santos
-### Desenvolvedor Frontend Sênior
+<div align="center">
+  <!-- BANNER DINÂMICO TOPO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10b981,06b6d4,3b82f6&height=140&section=header&text=Renan%20Augusto&fontSize=42&fontAlignY=35&fontColor=ffffff" width="100%" alt="Header" />
 
-Desenvolvedor Frontend Sênior com mais de 7 anos de experiência na concepção e entrega de ecossistemas digitais escaláveis e de alta performance. Especialista no ecossistema React, Next.js, TypeScript e arquitetura de front-end moderna. Experiência sólida na modernização de sistemas legados, implementação de pipelines de CI/CD, práticas ágeis com Azure DevOps e integração de ferramentas de Inteligência Artificial para otimizar fluxos de engenharia de software e UX/UI.
+  <p>
+    <strong>Lead Frontend Developer | Creative Technologist & Arquiteto Web</strong><br/>
+    <em>Especialista em React, Next.js, WebGL (Three.js / R3F) e Performance em Escala</em>
+  </p>
 
-<p align="left">
-  <a href="mailto:renan.gabba@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/renan-augusto-santos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <p>
+    <a href="https://www.renanaugusto.com.br"><img src="https://img.shields.io/badge/Website-renanaugusto.com.br-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="mailto:contato@renanaugusto.com.br"><img src="https://img.shields.io/badge/Email-contato@renanaugusto.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/renanfrontend"><img src="https://img.shields.io/badge/GitHub-renanfrontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
+
+---
+
+[![Retrato de Renan Augusto](renan-matrix.gif)](https://www.renanaugusto.com.br)
+<p align="center">
+  <sub style="color: #10b981; font-family: monospace;">⚡ Matrix Code Rain • 3D Canvas & WebGL Experience</sub>
 </p>
 
-## 🛠️ Tecnologias e Especialidades
+---
 
-**Frontend & Core:**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
+## 📌 Sobre Mim
 
-**Estilização & UI/UX:**
-<p align="left">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=materialui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</p>
+- 🌐 **Hub Oficial:** [renanaugusto.com.br](https://www.renanaugusto.com.br)
+- 💻 **Engenharia de Frontend & Experiências Visuais:** Desenvolvimento de interfaces de alta fidelidade visual, acessíveis e com arquitetura escalável.
+- 🎮 **Creative Development:** Shaders GLSL customizados, Three.js, React Three Fiber e animações com GSAP.
+- ⚡ **Performance & Qualidade:** Foco em Core Web Vitals, carregamento assíncrono e estabilidade a 60fps.
+- 📬 **Contacto Direto:** **[contato@renanaugusto.com.br](mailto:contato@renanaugusto.com.br)**
 
-**DevOps, Cloud & Ferramentas:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+---
 
-## 📊 Atividades e Contribuições
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+  <!-- Frontend Core -->
+  <p><strong>Frontend & Frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,styledcomponents,html,css" alt="Frontend Core" />
+  
+  <br/>
+  <!-- 3D & Ferramentas Visuais -->
+  <p><strong>3D, Animações & Design</strong></p>
+  <img src="https://skillicons.dev/icons?i=threejs,figma,vite,webpack" alt="Creative & 3D" />
+
+  <br/>
+  <!-- DevOps & Backend complementar -->
+  <p><strong>DevOps, Cloud & Backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,aws,gcp,postgres,git,github" alt="Infra & Backend" />
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Links |
+| :--- | :--- | :--- | :--- |
+| **Plataforma renanaugusto.com.br** | Experiência imersiva integrando interface responsiva com shaders e canvas 3D interativo. | Next.js, Three.js, Tailwind CSS | [Live](https://www.renanaugusto.com.br) |
+| **Interactive 3D WebGL Canvas** | Motor visual com React Three Fiber, shaders GLSL e carregamento assíncrono de modelos 3D sem perda de FPS. | Three.js, R3F, GSAP | [Repositório](https://github.com/renanfrontend) |
+| **Design System & Componentes** | Componentes modulares altamente tipados com foco em consistência visual e acessibilidade. | React, TypeScript, Storybook | [Repositório](https://github.com/renanfrontend) |
+
+---
+
+## 📊 Métricas & Atividade no GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=renanaugust&theme=dracula&hide_border=true" alt="Estatísticas de Sequência de Renan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renanfrontend&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=06B6D4" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfrontend&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanfrontend&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=06B6D4" alt="Streak Stats" width="97%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Construído por <strong>Renan Augusto</strong> • Vamos conversar? <a href="mailto:contato@renanaugusto.com.br">contato@renanaugusto.com.br</a></sub>
 </p>
