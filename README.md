@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- BANNER DINÂMICO TOPO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10b981,06b6d4,3b82f6&height=140&section=header&text=Renan%20Augusto&fontSize=42&fontAlignY=35&fontColor=ffffff" width="100%" alt="Header" />
+  <!-- BANNER DINÂMICO MATRIX / NEON GREEN -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=031508,0a3d1b,00ff66,10b981&height=140&section=header&text=Renan%20Augusto&fontSize=42&fontAlignY=35&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <p>
     <strong>Lead Frontend Developer | Creative Technologist & Arquiteto Web</strong><br/>
@@ -8,28 +8,39 @@
   </p>
 
   <p>
-    <a href="https://www.renanaugusto.com.br"><img src="https://img.shields.io/badge/Website-renanaugusto.com.br-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-    <a href="mailto:contato@renanaugusto.com.br"><img src="https://img.shields.io/badge/Email-contato@renanaugusto.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/renanfrontend"><img src="https://img.shields.io/badge/GitHub-renanfrontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.renanaugusto.com.br"><img src="https://img.shields.io/badge/Website-renanaugusto.com.br-00ff66?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Website" /></a>
+    <a href="mailto:contato@renanaugusto.com.br"><img src="https://img.shields.io/badge/Email-contato@renanaugusto.com.br-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/renanfrontend"><img src="https://img.shields.io/badge/GitHub-renanfrontend-0a3d1b?style=for-the-badge&logo=github&logoColor=00ff66" alt="GitHub" /></a>
   </p>
 </div>
 
 ---
 
-[![Retrato de Renan Augusto](renan-matrix.gif)](https://www.renanaugusto.com.br)
-<p align="center">
-  <sub style="color: #10b981; font-family: monospace;">⚡ Matrix Code Rain • 3D Canvas & WebGL Experience</sub>
-</p>
-
----
-
-## 📌 Sobre Mim
-
-- 🌐 **Hub Oficial:** [renanaugusto.com.br](https://www.renanaugusto.com.br)
-- 💻 **Engenharia de Frontend & Experiências Visuais:** Desenvolvimento de interfaces de alta fidelidade visual, acessíveis e com arquitetura escalável.
-- 🎮 **Creative Development:** Shaders GLSL customizados, Three.js, React Three Fiber e animações com GSAP.
-- ⚡ **Performance & Qualidade:** Foco em Core Web Vitals, carregamento assíncrono e estabilidade a 60fps.
-- 📬 **Contacto Direto:** **[contato@renanaugusto.com.br](mailto:contato@renanaugusto.com.br)**
+<!-- SEÇÃO LADO A LADO: TEXTO NA ESQUERDA | GIF NA DIREITA -->
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h2>📌 Sobre Mim</h2>
+      <p>
+        Desenvolvedor Frontend Sênior com sólida trajetória na concepção e entrega de produtos digitais escaláveis, acessíveis e de alta fidelidade visual. Combino arquitetura de sistemas reativos modernos com computação gráfica na web.
+      </p>
+      <ul>
+        <li>🌐 <b>Hub Oficial:</b> <a href="https://www.renanaugusto.com.br">renanaugusto.com.br</a></li>
+        <li>💻 <b>Engenharia Frontend:</b> Arquitetura modular, Design Systems, SSR/SSG e TypeScript estrito.</li>
+        <li>🎮 <b>Creative Dev & 3D:</b> Shaders GLSL, Three.js, React Three Fiber e animações com GSAP.</li>
+        <li>⚡ <b>Performance:</b> Otimização contínua de Core Web Vitals e renderizações estáveis a 60fps.</li>
+        <li>📬 <b>Contato:</b> <a href="mailto:contato@renanaugusto.com.br">contato@renanaugusto.com.br</a></li>
+      </ul>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <a href="https://www.renanaugusto.com.br">
+        <img src="renan-matrix.gif" alt="Retrato de Renan Augusto em chuva de código" width="280" style="border-radius: 14px;" />
+      </a>
+      <br/>
+      <sub style="color: #00ff66; font-family: monospace;">⚡ Matrix Code Rain • 3D Canvas</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,12 +77,12 @@
 ## 📊 Métricas & Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renanfrontend&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=06B6D4" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfrontend&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renanfrontend&show_icons=true&theme=radical&hide_border=true&bg_color=040D07&title_color=00FF66&icon_color=10B981&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfrontend&layout=compact&theme=radical&hide_border=true&bg_color=040D07&title_color=00FF66&text_color=E2E8F0" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanfrontend&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=06B6D4" alt="Streak Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanfrontend&theme=radical&hide_border=true&background=040D07&ring=00FF66&fire=10B981&currStreakLabel=00FF66" alt="Streak Stats" width="97%" />
 </p>
 
 ---
