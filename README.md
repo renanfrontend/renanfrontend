@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- BANNER DINÂMICO MATRIX / NEON GREEN -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=031508,0a3d1b,00ff66,10b981&height=140&section=header&text=Renan%20Augusto&fontSize=42&fontAlignY=35&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <!-- BANNER TOPO: TEMA OCEAN (AZUL E CIANO NEON) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ocean&height=150&section=header&text=Renan%20Augusto&fontSize=44&fontAlignY=38&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <p>
     <strong>Lead Frontend Developer | Creative Technologist & Arquiteto Web</strong><br/>
@@ -8,9 +8,9 @@
   </p>
 
   <p>
-    <a href="https://www.renanaugusto.com.br"><img src="https://img.shields.io/badge/Website-renanaugusto.com.br-00ff66?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Website" /></a>
-    <a href="mailto:contato@renanaugusto.com.br"><img src="https://img.shields.io/badge/Email-contato@renanaugusto.com.br-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/renanfrontend"><img src="https://img.shields.io/badge/GitHub-renanfrontend-0a3d1b?style=for-the-badge&logo=github&logoColor=00ff66" alt="GitHub" /></a>
+    <a href="https://www.renanaugusto.com.br"><img src="https://img.shields.io/badge/Website-renanaugusto.com.br-00c6ff?style=for-the-badge&logo=google-chrome&logoColor=0a0f1d&labelColor=0f172a" alt="Website" /></a>
+    <a href="mailto:contato@renanaugusto.com.br"><img src="https://img.shields.io/badge/Email-contato@renanaugusto.com.br-38bdf8?style=for-the-badge&logo=gmail&logoColor=0a0f1d&labelColor=0f172a" alt="Email" /></a>
+    <a href="https://github.com/renanfrontend"><img src="https://img.shields.io/badge/GitHub-renanfrontend-00f2fe?style=for-the-badge&logo=github&logoColor=0a0f1d&labelColor=0f172a" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -27,7 +27,7 @@
       <ul>
         <li>🌐 <b>Hub Oficial:</b> <a href="https://www.renanaugusto.com.br">renanaugusto.com.br</a></li>
         <li>💻 <b>Engenharia Frontend:</b> Arquitetura modular, Design Systems, SSR/SSG e TypeScript estrito.</li>
-        <li>🎮 <b>Creative Dev & 3D:</b> Shaders GLSL, Three.js, React Three Fiber e animações com GSAP.</li>
+        <li>🎮 <b>Creative Dev & 3D:</b> Shaders GLSL, Three.js, React Three Fiber e animações interativas.</li>
         <li>⚡ <b>Performance:</b> Otimização contínua de Core Web Vitals e renderizações estáveis a 60fps.</li>
         <li>📬 <b>Contato:</b> <a href="mailto:contato@renanaugusto.com.br">contato@renanaugusto.com.br</a></li>
       </ul>
@@ -37,7 +37,7 @@
         <img src="renan-matrix.gif" alt="Retrato de Renan Augusto em chuva de código" width="280" style="border-radius: 14px;" />
       </a>
       <br/>
-      <sub style="color: #00ff66; font-family: monospace;">⚡ Matrix Code Rain • 3D Canvas</sub>
+      <sub style="color: #00c6ff; font-family: monospace;">⚡ Cybernetic Particles • 3D Experience</sub>
     </td>
   </tr>
 </table>
@@ -77,12 +77,12 @@
 ## 📊 Métricas & Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renanfrontend&show_icons=true&theme=radical&hide_border=true&bg_color=040D07&title_color=00FF66&icon_color=10B981&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfrontend&layout=compact&theme=radical&hide_border=true&bg_color=040D07&title_color=00FF66&text_color=E2E8F0" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renanfrontend&show_icons=true&theme=radical&hide_border=true&bg_color=0a0f1d&title_color=00f2fe&icon_color=00c6ff&text_color=e2e8f0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfrontend&layout=compact&theme=radical&hide_border=true&bg_color=0a0f1d&title_color=00f2fe&text_color=e2e8f0" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanfrontend&theme=radical&hide_border=true&background=040D07&ring=00FF66&fire=10B981&currStreakLabel=00FF66" alt="Streak Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanfrontend&theme=radical&hide_border=true&background=0a0f1d&ring=00f2fe&fire=00c6ff&currStreakLabel=00f2fe" alt="Streak Stats" width="97%" />
 </p>
 
 ---
