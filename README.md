@@ -12,20 +12,15 @@
     <a href="mailto:contato@renanaugusto.com.br"><img src="https://img.shields.io/badge/Email-contato@renanaugusto.com.br-38bdf8?style=for-the-badge&logo=gmail&logoColor=0a0f1d&labelColor=0f172a" alt="Email" /></a>
     <a href="https://github.com/renanfrontend"><img src="https://img.shields.io/badge/GitHub-renanfrontend-00f2fe?style=for-the-badge&logo=github&logoColor=0a0f1d&labelColor=0f172a" alt="GitHub" /></a>
   </p>
-
-  <br/>
-
-  <!-- GIF CENTRALIZADO E ESCALÁVEL -->
-  <a href="https://www.renanaugusto.com.br">
-    <img src="renan-matrix.gif" alt="Retrato de Renan Augusto em chuva de código" width="280" style="max-width: 85%; border-radius: 16px;" />
-  </a>
-  <br/>
-  <sub style="color: #00c6ff; font-family: monospace;">⚡ Cybernetic Particles • 3D Experience</sub>
 </div>
 
 ---
 
 ## 📌 Sobre Mim
+
+<a href="https://www.renanaugusto.com.br">
+  <img align="right" src="renan-matrix.gif" alt="Retrato de Renan Augusto em chuva de código" width="260" style="max-width: 100%; border-radius: 14px; margin-left: 20px; margin-bottom: 20px;" />
+</a>
 
 Desenvolvedor Frontend Sênior com sólida trajetória na concepção e entrega de produtos digitais escaláveis, acessíveis e de alta fidelidade visual. Combino arquitetura de sistemas reativos modernos com computação gráfica na web.
 
@@ -34,6 +29,8 @@ Desenvolvedor Frontend Sênior com sólida trajetória na concepção e entrega 
 - 🎮 **Creative Dev & 3D:** Shaders GLSL, Three.js, React Three Fiber e animações interativas.
 - ⚡ **Performance:** Otimização contínua de Core Web Vitals e renderizações a 60fps.
 - 📬 **Contato Direto:** [contato@renanaugusto.com.br](mailto:contato@renanaugusto.com.br)
+
+<br clear="both" />
 
 ---
 
