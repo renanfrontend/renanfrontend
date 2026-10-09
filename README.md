@@ -18,9 +18,11 @@
 
 ## 📌 Sobre Mim
 
-<a href="https://www.renanaugusto.com.br">
-  <img align="right" src="renan-matrix.gif" alt="Retrato de Renan Augusto em chuva de código" width="260" style="max-width: 100%; border-radius: 14px; margin-left: 20px; margin-bottom: 20px;" />
-</a>
+<p align="center">
+  <a href="https://www.renanaugusto.com.br">
+    <img src="renan-matrix.gif" alt="Retrato de Renan Augusto em chuva de código" width="260" />
+  </a>
+</p>
 
 Desenvolvedor Frontend Sênior com sólida trajetória na concepção e entrega de produtos digitais escaláveis, acessíveis e de alta fidelidade visual. Combino arquitetura de sistemas reativos modernos com computação gráfica na web.
 
@@ -29,8 +31,6 @@ Desenvolvedor Frontend Sênior com sólida trajetória na concepção e entrega 
 - 🎮 **Creative Dev & 3D:** Shaders GLSL, Three.js, React Three Fiber e animações interativas.
 - ⚡ **Performance:** Otimização contínua de Core Web Vitals e renderizações a 60fps.
 - 📬 **Contato Direto:** [contato@renanaugusto.com.br](mailto:contato@renanaugusto.com.br)
-
-<br clear="both" />
 
 ---
 
